@@ -23,6 +23,6 @@ Other examples are avaiable in [docs/slides/img](docs/slides/img/).
 
 ## License & Author
 
-**Lucas RODRIGUEZ** &bull;
+**Lucas RODRIGUEZ** &bull; [lcsrodriguez.github.io](https://lcsrodriguez.github.io)
 
 Academic work - April 2019 - May 2020. All rights reserved
