@@ -1,9 +1,16 @@
-# TIPE
+# Numeric optimization of maritime flows - Cartographic application & Theorerical prospection
 
-## Présentation
+## Presentation
 
-## Licence
 
-**Lucas RODRIGUEZ**
+The final report (released under slides format) is available [here](docs/slides/diapo.pdf).
 
-Travaux réalisés sur la période : Avril 2019 - Mai 2020. Tous droits réservés.
+### Content
+
+- Introduction
+
+## License & Author
+
+**Lucas RODRIGUEZ** &bull;
+
+Academic work - April 2019 - May 2020. All rights reserved
