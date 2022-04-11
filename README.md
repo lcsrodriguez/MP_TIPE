@@ -9,6 +9,15 @@ The final report (released under slides format) is available [here](docs/slides/
 
 - Introduction
 
+
+
+### Results
+
+
+| ![app3.jpg](docs/slides/img/app3.png) | 
+|:--:| 
+| Fig. 1 : Example of final result &bull; Simulation based on specified parameters |
+
 ## License & Author
 
 **Lucas RODRIGUEZ** &bull;
