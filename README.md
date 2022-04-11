@@ -13,10 +13,13 @@ The final report (released under slides format) is available [here](docs/slides/
 
 ### Results
 
+Here are some screenshots of final results of the application developed in the third section of this project.
+
+Other examples are avaiable in [docs/slides/img](docs/slides/img/).
 
 | ![app3.jpg](docs/slides/img/app3.png) | 
 |:--:| 
-| Fig. 1 : Example of final result &bull; Simulation based on specified parameters |
+| **Fig. 1** : Example of final result &bull; Simulation based on specified parameters |
 
 ## License & Author
 
