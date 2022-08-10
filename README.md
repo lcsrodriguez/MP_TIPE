@@ -2,10 +2,13 @@
 
 ## Presentation
 
+This projects takes part in the final grading of the nationwide examination for the entrance to the French *Grandes Écoles* (specialized engineering schools).
+
+The main objective is to determine an **optimal solution** able to find the most relevant (in term of cost) route for a commercial vessel.
 
 The final report (released under slides format) is available [here](docs/slides/diapo.pdf).
 
-### Content
+### Table of contents
 
 1. Problem's introduction & Main goals
 2. Introduction to graph theory
@@ -29,7 +32,18 @@ Other examples are avaiable in [docs/slides/img](docs/slides/img/).
 |:--:| 
 | **Fig. 1** : Example of final result &bull; Simulation based on specified parameters |
 
-## License & Author
+
+| ![app2.jpg](docs/slides/img/app2.png) | 
+|:--:| 
+| **Fig. 2** : Example of final result &bull; Simulation based on specified parameters |
+
+| ![app1.jpg](docs/slides/img/app1.png) | 
+|:--:| 
+| **Fig. 3** : Example of final result &bull; Simulation based on specified parameters |
+
+
+
+## License
 
 **Lucas RODRIGUEZ** &bull; [lcsrodriguez.github.io](https://lcsrodriguez.github.io)
 
